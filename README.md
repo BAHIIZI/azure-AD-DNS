@@ -4,9 +4,9 @@ DNS converts computer names such as "www.google.com" to an IP address such as "2
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Computer)
+- Microsoft Azure (Virtual Machines)
+  Virtual machine-1 named DC-1 which is the Domain server and Virtual machine-2 named Client-1. 
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
