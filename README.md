@@ -2,6 +2,13 @@ UNDERSTANDING DNS.
 
 DNS converts computer names such as "www.google.com" to an IP address such as "216.58.199.228" which can be used by the computer to locate resources.
 
+<h2>Video Demonstration</h2>
+
+
+- ### [Building Intuition For DNS][
+](https://drive.google.com/file/d/1bORupvdv9gHS6ZOBumU0cessbq0L8BOk/view?usp=share_link)
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
