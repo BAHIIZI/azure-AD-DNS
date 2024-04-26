@@ -5,7 +5,7 @@ DNS converts computer names such as "www.google.com" to an IP address such as "2
 <h2>Video Demonstration</h2>
 
 
-- ### [Building Intuition For DNS][
+- ### Building Intuition For DNS [
 ](https://drive.google.com/file/d/1bORupvdv9gHS6ZOBumU0cessbq0L8BOk/view?usp=share_link)
 
 
@@ -14,7 +14,7 @@ DNS converts computer names such as "www.google.com" to an IP address such as "2
 - Microsoft Azure (Virtual Machines)
 
   Virtual machine-1 named DC-1 which is the Domain server and Virtual machine-2 named Client-1. 
-- Remote Desktop
+- Microsoft Remote Desktop
 
 <h2>Operating Systems Used </h2>
 
