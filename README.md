@@ -19,10 +19,12 @@ DNS converts computer names such as "www.google.com" to an IP address such as "2
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Windows server 2022
 
 Tasks done include;-
 - Inspect DNS A-records on the server.
 - create some of our own A-records on the server and observe them from the client-1 computer.
 - Delete records from server and inspect/clear the client DNS Cache to gain understanding.
 - Touch on "CNAME" records (mapping one name to another).
-- Discuss ROOT Hints.
+
+
